@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetMicroservice.ToDos.We
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetMicroservice.Categories.WebAPI", "DotnetMicroservice.Categories.WebAPI\DotnetMicroservice.Categories.WebAPI.csproj", "{069E752D-DAED-44B2-848A-3520C6489EF5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetMicroservice.Ocelot.Gateway", "DotnetMicroservice.Ocelot.Gateway\DotnetMicroservice.Ocelot.Gateway.csproj", "{4BA22757-C38A-414D-88D9-089CD0BA2EE0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{069E752D-DAED-44B2-848A-3520C6489EF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{069E752D-DAED-44B2-848A-3520C6489EF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{069E752D-DAED-44B2-848A-3520C6489EF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BA22757-C38A-414D-88D9-089CD0BA2EE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BA22757-C38A-414D-88D9-089CD0BA2EE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BA22757-C38A-414D-88D9-089CD0BA2EE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BA22757-C38A-414D-88D9-089CD0BA2EE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
